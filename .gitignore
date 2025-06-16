@@ -1,5 +1,5 @@
 .venv_ac/
-config/.ipynb_checkpoints/
+config/.ipynb_checkpoints
 data/
 notebooks/
-src/__pycache__/
+src/__pycache__
