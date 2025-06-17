@@ -3,8 +3,8 @@ import requests
 from PIL import Image
 
 # Load and set images in the first place
-header_images = Image.open('assets/header_images.jpg')
-st.image(header_images)
+# header_images = Image.open('assets/header_images.jpg')
+# st.image(header_images)
 
 # Add some information about the service
 st.title("Air Contaminant Standard Index Prediction")
